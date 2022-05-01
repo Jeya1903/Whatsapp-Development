@@ -9,3 +9,7 @@ lastseen code
 attachment (Image, Audio, Video) code
 
 Hide the last seen
+
+Adding the audio call feature
+
+Adding the video call feature
